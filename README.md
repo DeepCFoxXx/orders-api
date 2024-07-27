@@ -24,12 +24,16 @@ relevant.
 
 2.Start the DB:
 
+```bash
 brew services start mongodb/brew/mongodb-community@5.0
 brew services list
+```
 
 3.Start the app:
 
+```bash
 node app.js
+```
 
 4.Interact with the api
 
