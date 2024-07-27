@@ -33,4 +33,4 @@ node app.js
 
 4.Interact with the api
 
-use postman to interact with api (see collection in repo)
+use postman to interact with api (see collection in repo orders-api/docs)
